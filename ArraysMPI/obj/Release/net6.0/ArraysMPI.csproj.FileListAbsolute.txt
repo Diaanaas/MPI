@@ -1,0 +1,17 @@
+D:\+Main\University\РПП\+\Diana\ArraysMPI\ArraysMPI\bin\Release\net6.0\ArraysMPI.exe
+D:\+Main\University\РПП\+\Diana\ArraysMPI\ArraysMPI\bin\Release\net6.0\ArraysMPI.deps.json
+D:\+Main\University\РПП\+\Diana\ArraysMPI\ArraysMPI\bin\Release\net6.0\ArraysMPI.runtimeconfig.json
+D:\+Main\University\РПП\+\Diana\ArraysMPI\ArraysMPI\bin\Release\net6.0\ArraysMPI.dll
+D:\+Main\University\РПП\+\Diana\ArraysMPI\ArraysMPI\bin\Release\net6.0\ArraysMPI.pdb
+D:\+Main\University\РПП\+\Diana\ArraysMPI\ArraysMPI\bin\Release\net6.0\MPI.dll
+D:\+Main\University\РПП\+\Diana\ArraysMPI\ArraysMPI\obj\Release\net6.0\ArraysMPI.csproj.AssemblyReference.cache
+D:\+Main\University\РПП\+\Diana\ArraysMPI\ArraysMPI\obj\Release\net6.0\ArraysMPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\+Main\University\РПП\+\Diana\ArraysMPI\ArraysMPI\obj\Release\net6.0\ArraysMPI.AssemblyInfoInputs.cache
+D:\+Main\University\РПП\+\Diana\ArraysMPI\ArraysMPI\obj\Release\net6.0\ArraysMPI.AssemblyInfo.cs
+D:\+Main\University\РПП\+\Diana\ArraysMPI\ArraysMPI\obj\Release\net6.0\ArraysMPI.csproj.CoreCompileInputs.cache
+D:\+Main\University\РПП\+\Diana\ArraysMPI\ArraysMPI\obj\Release\net6.0\ArraysMPI.csproj.Up2Date
+D:\+Main\University\РПП\+\Diana\ArraysMPI\ArraysMPI\obj\Release\net6.0\ArraysMPI.dll
+D:\+Main\University\РПП\+\Diana\ArraysMPI\ArraysMPI\obj\Release\net6.0\refint\ArraysMPI.dll
+D:\+Main\University\РПП\+\Diana\ArraysMPI\ArraysMPI\obj\Release\net6.0\ArraysMPI.pdb
+D:\+Main\University\РПП\+\Diana\ArraysMPI\ArraysMPI\obj\Release\net6.0\ArraysMPI.genruntimeconfig.cache
+D:\+Main\University\РПП\+\Diana\ArraysMPI\ArraysMPI\obj\Release\net6.0\ref\ArraysMPI.dll
